@@ -1,0 +1,5 @@
+/*css part of the prismatic night theme. visit https://github.com/dbuxy218/Prismatic-Night*/
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
+ #navigator-toolbox{
+    padding-bottom: 10px;
+  }
