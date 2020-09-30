@@ -1,6 +1,8 @@
 
 ## Custom dots for my linux setup
 
+![Preview](/screenshot.png)
+
 Color scheme: Black, Orange and Pink
 Wallpaper: Cyberpunk 2077 samurai
 Linux distro: Arch Linux
